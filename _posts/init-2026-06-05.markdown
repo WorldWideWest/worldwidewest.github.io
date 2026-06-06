@@ -1,0 +1,8 @@
+---
+layout: post
+title: "init"
+date: 2026-06-05 15:07:51 +0200
+categories: jekyll update
+---
+
+This is my first try to create a personal blog, most of the things I'll write here will be about building startups, exploring new technologies and concepts, trying myself out in different roles (management, marketing, sales) which will be a shit show but you have to try and win in the end.
