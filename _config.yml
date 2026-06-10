@@ -21,7 +21,7 @@
 title: My awesome thing
 email: dzenan.dzafic@analitika.tech
 description: >-
-  I don't really know what to put here .... 
+  A home for my thoughts .... 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # url: "https://worldwidedzeno.github.io"
@@ -35,6 +35,9 @@ github_username:  worldwidewest
 theme: minima
 plugins:
   - jekyll-feed
+
+# Allow future-dated posts to be published
+future: true
 
 # Exclude from processing.
 # The following items will not be processed, by default.
